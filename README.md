@@ -36,6 +36,11 @@ Buy me a Coffee (I will too buy you a coffee one day)☕☕☕☕☕☕
 <div align="center">
 <img src="https://github.com/singhanshika311/readme/blob/main/Frustrated_programmer.gif" width=150 height=150>
  </div>
+ 
+ #### Overall profile stats
+![](https://github-readme-stats.vercel.app/api?username=singhanshika311&count_private=true&theme=merko&show_icons=true&hide=prs)
+
+
 
 
 ### Ask me about my projects in Web Development Phase
