@@ -44,6 +44,7 @@ Buy me a Coffee (I will too buy you a coffee one day)☕☕☕☕☕☕
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanshika311" />
 
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=singhanshika311&theme=algolia&hide_border=true" />
 
 
 ### Ask me about my projects in Web Development Phase
