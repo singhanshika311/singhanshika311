@@ -38,8 +38,11 @@ Buy me a Coffee (I will too buy you a coffee one day)☕☕☕☕☕☕
  </div>
  
  #### Overall profile stats
-![](https://github-readme-stats.vercel.app/api?username=singhanshika311&count_private=true&theme=merko&show_icons=true&hide=prs)
+<div style="display:flex; justify-content:center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=singhanshika311&count_private=true&&show_icons=true&theme=dark" />
+</div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanshika311" />
 
 
 
