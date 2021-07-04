@@ -46,5 +46,7 @@ Buy me a Coffee (I will too buy you a coffee one day)☕☕☕☕☕☕
 
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=singhanshika311&theme=algolia&hide_border=true" />
 
+<img src="https://activity-graph.herokuapp.com/graph?username=singhanshika311&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+
 
 ### Ask me about my projects in Web Development Phase
