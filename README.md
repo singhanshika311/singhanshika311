@@ -48,5 +48,9 @@ Buy me a Coffee (I will too buy you a coffee one day)☕☕☕☕☕☕
 
 <img src="https://activity-graph.herokuapp.com/graph?username=singhanshika311&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB" width=800>
 
+## Visitor's count
+
+![Visitor Count](https://profile-counter.glitch.me/{singhanshika311}/count.svg)
+
 
 ### Ask me about my projects in Web Development Phase
