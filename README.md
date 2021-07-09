@@ -52,5 +52,11 @@ Buy me a Coffee (I will too buy you a coffee one day)☕☕☕☕☕☕
 
 ![Visitor Count](https://profile-counter.glitch.me/{singhanshika311}/count.svg)
 
+<summary>:zap: Tab here :P</summary>
+<p align="center"><img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/tenor.gif" width="50"></p> <br>
+</details>  
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
+
+
 
 ### Ask me about my projects in Web Development Phase
