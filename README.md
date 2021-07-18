@@ -55,6 +55,12 @@ Buy me a Coffee (I will too buy you a coffee one day)☕☕☕☕☕☕
 
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
 
+![](https://activity-graph.herokuapp.com/graph?username=Ayan-thecodeking&theme=github)
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/Ayan-thecodeking/ayan-thecodeking/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 
 
 ### Ask me about my projects in Web Development Phase
