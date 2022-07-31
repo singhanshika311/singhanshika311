@@ -17,13 +17,13 @@
 
  🔭 I’m currently studying in **PSIT**
 
-🌱 I’m currently learning **Python, PHP**
+🌱 I’m currently learning **Angular, Springboot**
 
 👯 I’m looking to collaborate on [Web Development](https://github.com/singhanshika311)
 
 👨‍💻 Some of my projects are available at my [Github](https://github.com/singhanshika311?tab=repositories)
 
-💬 Ask me about **HTML, CSS, BOOTSTRAP, Javascript, Data Structures and Algorithms**
+💬 Ask me about **HTML, CSS, BOOTSTRAP, Springboot, Angular, Data Structures and Algorithms**
 
 📫 How to reach me **anshikas288@gmail.com**
 
