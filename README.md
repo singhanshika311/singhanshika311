@@ -9,7 +9,6 @@
 <div align="center">
 <img src="https://github.com/singhanshika311/readme/blob/main/anshu.gif" width=800 height=110>
  </div>
-<img src="https://github.com/singhanshika311/singhanshika311/blob/main/new.jpeg" width=200 height=300 align="left">
 
 <div align="center">
 
