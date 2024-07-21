@@ -15,7 +15,7 @@
 
 <h3 align="center">Full Stack Web Developer 👨‍💻</h3>
 
- 🔭 I’m currently working in ****
+ 🔭 I’m currently working in WIPRO
 
 🌱 I’m currently learning **Angular, Springboot**
 
